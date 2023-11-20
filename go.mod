@@ -1,5 +1,4 @@
-module calculator
+module github.com/LunhA/calculator
 
 go 1.21.3
 
-replace github.com/LunhA/calculator
